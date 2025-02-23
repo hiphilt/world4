@@ -5,3 +5,4 @@ matplotlib
 numpy
 pandas
 shapely
+streamlit_folium
